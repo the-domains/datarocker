@@ -1,0 +1,14 @@
+layout_spectrum: 0.4601679062470794
+typography_spectrum: 0.8494740470778197
+color:
+  brandStrength: 0.10758630791679025
+  lightness: 0.8012727038003504
+  saturation: 0.919248872436583
+  rhythmicContrast: 0.031619998160749674
+  brandColors:
+    - '#40579D'
+    - '#7894C4'
+    - '#BCCDD4'
+    - '#010101'
+    - '#C73131'
+name: Datarocker
