@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Datarocker]]></title>
+        <description><![CDATA[Datarocker]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 23 Aug 2016 07:50:34 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Who sampled…]]></title>
+            <description><![CDATA[<article><h1>Who sampled…</h1><p>30th July 2016 marks the 20th Anniversary of A Tribe Called Quest's 4th and penultimate studio album, 'Beats Rhymes & Life'. Produced almost entirely by the Ummah, a productio...</p><img src="https://i2.wp.com/whosampled.files.wordpress.com/2016/08/beats-rhymes-life-20-400x400.jpg?fit=440%2C330&ssl=1"></article>]]></description>
+            <link>https://blog.whosampled.com/2016/08/01/a-tribe-called-quest-beats-rhymes-life-20th-anniversary-mixtape-mixed-by-chris-read/</link>
+            <guid isPermaLink="false">6172fbda-950b-4ad7-bbb6-49f6c8fb97dd</guid>
+            <pubDate>Tue, 23 Aug 2016 07:50:31 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
