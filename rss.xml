@@ -2,13 +2,13 @@
     <channel>
         <title><![CDATA[Datarocker]]></title>
         <description><![CDATA[Datarocker]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/datarocker/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Aug 2016 07:50:34 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 27 Aug 2016 08:49:33 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/datarocker/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Who sampled…]]></title>
-            <description><![CDATA[<article><h1>Who sampled…</h1><p>30th July 2016 marks the 20th Anniversary of A Tribe Called Quest's 4th and penultimate studio album, 'Beats Rhymes & Life'. Produced almost entirely by the Ummah, a productio...</p><img src="https://i2.wp.com/whosampled.files.wordpress.com/2016/08/beats-rhymes-life-20-400x400.jpg?fit=440%2C330&ssl=1"></article>]]></description>
+            <description><![CDATA[<article><h1>Who sampled…</h1><p>30th July 2016 marks the 20th Anniversary of A Tribe Called Quest's 4th and penultimate studio album, 'Beats Rhymes & Life'. Produced almost entirely by the Ummah, a productio...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b90a097e01690b9c5154e0ba77009686/noop.jpg?input=https%3A%2F%2Fi2.wp.com%2Fwhosampled.files.wordpress.com%2F2016%2F08%2Fbeats-rhymes-life-20-400x400.jpg%3Ffit%3D440%252C330%26ssl%3D1"></article>]]></description>
             <link>https://blog.whosampled.com/2016/08/01/a-tribe-called-quest-beats-rhymes-life-20th-anniversary-mixtape-mixed-by-chris-read/</link>
             <guid isPermaLink="false">6172fbda-950b-4ad7-bbb6-49f6c8fb97dd</guid>
             <pubDate>Tue, 23 Aug 2016 07:50:31 GMT</pubDate>
