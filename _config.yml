@@ -12,3 +12,7 @@ color:
     - '#FFFFFF'
     - '#FF9800'
 name: Datarocker
+navigation:
+  - name: About us
+    id: e4813336-24a9-4ba8-a223-5017b2a25e91
+    type: content
