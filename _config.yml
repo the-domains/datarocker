@@ -1,16 +1,16 @@
-layout_spectrum: 0.6186070670373738
-typography_spectrum: 0.679224424995482
+layout_spectrum: 0.7129608343821019
+typography_spectrum: 0.5636976668611169
 color:
-  brandStrength: 0.4072222854010761
-  lightness: 0.20667741121724248
-  saturation: 0.2826945073902607
-  rhythmicContrast: 0.8552630187477916
+  brandStrength: 0.5301829555537552
+  lightness: 0.3344662853050977
+  saturation: 0.4127427951898426
+  rhythmicContrast: 0.703796504996717
   brandColors:
-    - '#000000'
-    - '#263248'
-    - '#7E8AA2'
-    - '#FFFFFF'
-    - '#FF9800'
+    - '#CFC291'
+    - '#FFF6C5'
+    - '#A1E8D9'
+    - '#FF712C'
+    - '#695D46'
 name: Datarocker
 navigation:
   - name: About us
